@@ -1,5 +1,5 @@
 https://community.mellanox.com/s/article/What-is-RDMA
 https://community.mellanox.com/s/article/rdma-roce-solutions
 https://community.mellanox.com/s/article/roce-success-cases-and-deployment-guides
-
+https://www.infinibandta.org/ibta-specification/
 
