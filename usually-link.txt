@@ -12,4 +12,8 @@ https://zhuanlan.zhihu.com/p/98097268
 https://github.com/schoeberl/lipsi
 https://github.com/ucb-bar/riscv-mini
 https://zhuanlan.zhihu.com/p/98097268
+http://home.ustc.edu.cn/~louwenqi/reference_books_tools/Computer%20Organization%20and%20Design%20RISC-V%20edition.pdf
+
+
+
 
