@@ -4,3 +4,4 @@ https://community.mellanox.com/s/article/roce-success-cases-and-deployment-guide
 https://www.infinibandta.org/ibta-specification/
 http://rdmaconsortium.org/
 https://community.mellanox.com/s/article/download-wireshark-with-rocev2-support
+http://www2.imm.dtu.dk/courses/02139/
