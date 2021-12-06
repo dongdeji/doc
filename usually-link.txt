@@ -5,3 +5,7 @@ https://www.infinibandta.org/ibta-specification/
 http://rdmaconsortium.org/
 https://community.mellanox.com/s/article/download-wireshark-with-rocev2-support
 http://www2.imm.dtu.dk/courses/02139/
+https://www.runoob.com/scala/scala-pattern-matching.html
+https://www.chisel-lang.org/
+https://www.chisel-lang.org/chisel3/docs/introduction.html
+
