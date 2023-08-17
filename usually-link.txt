@@ -42,3 +42,4 @@ https://wiki.riscv.org/collector/pages.action?key=HOME
 
 https://github.com/graphcore
 https://github.com/ucb-bar/gemmini
+https://forums.servethehome.com/index.php
